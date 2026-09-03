@@ -5,5 +5,5 @@
     echo "$i \n";
     echo "<br> \n" ;
     echo  "$i éves vagyok \n";
-    echo "<br> \n"
+    echo "<br> \n";
 ?>
